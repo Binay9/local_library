@@ -3,5 +3,6 @@ populatedb.js
 /populatedb
 /node_modules
 
+./node_modules
 node_modules
 populatedb
